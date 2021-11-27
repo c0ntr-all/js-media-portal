@@ -1,0 +1,19 @@
+{
+  "name": "js-media-portal.loc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unrealserg/js-media-portal.git"
+  },
+  "author": "Sergey Taturin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unrealserg/js-media-portal/issues"
+  },
+  "homepage": "https://github.com/unrealserg/js-media-portal#readme"
+}
