@@ -1,1 +1,0 @@
-# js-media-portal
